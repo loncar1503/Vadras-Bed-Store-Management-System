@@ -1,5 +1,3 @@
-# Vadras-Bed-Store-Management-System
-
 # Vadras – Bed Store Management System
 
 ## Overview
